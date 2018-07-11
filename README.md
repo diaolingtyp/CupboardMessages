@@ -2,7 +2,7 @@
 
 ## Permissions
 
-- **cupboardmessage.use** -- Allows player to receive cupboard messages
+- **cupboardmessages.use** -- Allows player to receive cupboard messages
 
 ## Localization
 
